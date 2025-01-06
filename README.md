@@ -21,8 +21,8 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/ваш_пользователь/ваш_репозиторий.git
-   cd ваш_репозиторий
+   git clone https://github.com/Vaibron/L-platform-MySql-.git
+   cd L-platform-MySql-
    ```
 
 2. **Создайте виртуальное окружение:**
